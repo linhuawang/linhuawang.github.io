@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Linhua (Alex) Wang"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Computational Biologist, Genetics ML Scientist"
   location         : "Houston, TX"
   employer         :
@@ -218,7 +218,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  _publications
+  # _publications
   - scope:
       path: ""
       type: publications
