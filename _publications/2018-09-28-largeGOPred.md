@@ -8,7 +8,7 @@ venue: 'F1000Research'
 paperurl: 'https://f1000research.com/articles/7-1577'
 citation: 'Wang L, Law J, Kale SD et al. Large-scale protein function prediction using heterogeneous ensembles [version 1; peer review: 2 approved]. F1000Research 2018, 7(ISCB Comm J):1577 (https://doi.org/10.12688/f1000research.16415.1)'
 ---
-
+This paper is associated with work at Dr. Gaurav Pandey's lab.
 
 [Download paper here](https://f1000research.com/articles/7-1577)
 
