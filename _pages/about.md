@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Thank you for taking your time visiting this website. My name is Linhua Wang (Alex). I am currently a PhD graduate student in Quantitative & Computational Biosciences under the supervision of [Dr. Zhandong Liu](https://scholar.google.com/citations?user=O2ar4aIAAAAJ&hl=en&oi=ao) at Baylor College of Medicine, Houston, TX. My Ph.D. thesis focus is developing computational approaches to analyze multi-omics data, especially for Spatially resolved Transcriptomics (ST). Other than thesis projects, I have extensive experience in machine learning, computational human genetics. 
+Thank you for taking your time visiting this website. My name is Linhua Wang (Alex). I am currently a PhD graduate student in the Quantitative & Computational Biosciences program at Baylor College of Medicine under the supervision of [Dr. Zhandong Liu](https://scholar.google.com/citations?user=O2ar4aIAAAAJ&hl=en&oi=ao). My Ph.D. thesis focus is developing computational approaches to analyze multi-omics data, especially for Spatially resolved Transcriptomics (ST). Other than thesis projects, I have extensive experience in machine learning, computational human genetics. 
 
 Before my Ph.D. study, I worked as a Bioinformatician from 2017 to 2019 in Dr. [Gaurav Pandey's lab](https://gpandeylab.org/) at Icahn School of Medicine at Mount Sinai. As a bioinformatician, I developed and maintained scalable machine learning tools at high-performing systems (HPC) for biomedical predictions, such as protein functions. 
-
-My research interest lies in the development of computaitonal tools to unravel biological and biomedical insights from multi-omics and clinical data. 
 
 Research Interests
 ======
@@ -21,6 +19,12 @@ Research Interests
 * Multi-omics data analysis
 * Machine learning & biomedical applications
 * Convex Optimization & biomedical applications
+
+Fun facts
+======
+* Proud pet owner
+* Basketball game (NBA) fan
+* Board game lover
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minbimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
 <!-- A data-driven personal website
