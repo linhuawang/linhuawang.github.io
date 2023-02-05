@@ -14,6 +14,13 @@ Before my Ph.D. study, I worked as a Bioinformatician from 2017 to 2019 in Dr. [
 
 My research interest lies in the development of computaitonal tools to unravel biological and biomedical insights from multi-omics and clinical data. 
 
+Research Interests
+======
+* Computational biology (bioinformatics)
+* Human genetics & rare disease diagnosis
+* Multi-omics data analysis
+* Machine learning & biomedical applications
+* Convex Optimization & biomedical applications
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minbimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
 <!-- A data-driven personal website
