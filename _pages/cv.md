@@ -76,17 +76,7 @@ Achievements
 Molecular Biology (ISMB), Chicago, (2018)
 * Travel Fellowship for Intelligent Systems for Molecular Biology (ISMB), Chicago, (2018)
 * Scholarship at Carnegie Mellon University, Pittsburgh, PA (2015 - 2017)
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+
   
 Service and leadership
 ======
