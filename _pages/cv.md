@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Download a PDF-version of my C.V.: <a href='../files/cv_lw.pdf'>Download C.V. here</a>
+
 Education
 ======
 * B.S. in Biotechnology, Sun Yat-sen University, China, 2015
